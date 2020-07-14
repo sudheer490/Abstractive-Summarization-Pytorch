@@ -1,4 +1,4 @@
-# Abstractive-Summarization-Pytorch
+# Abstractive-Summarization-Py
 Pytorch implementation of "A Deep Reinforced Model for Abstractive Summarization" paper and pointer generator network 
 
 ## Model Description
